@@ -1,9 +1,10 @@
-# Olá meu nome e lucas 
-e atualmente estou estudando HTML CSS e Javascript para assim adentrar na area de FrontEnd
+# Hello there my name is lucas
+I'm currently studying html, css and  Javascript to enter the FrontEnd area
 
-### minhas metas atualmente
-- Me especializar mais em CSS Flexbox grid entre outros conceitos 
-- Aprimorar meu estudo em JavasCript
+### My primary goals
+
+- Specialize more in CSS Flexbox grid among other concepts
+- Improve my study in JavasCript
 
 
 

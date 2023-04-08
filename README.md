@@ -4,7 +4,7 @@ I'm currently studying html, css and  Javascript to enter the FrontEnd area
 ### My primary goals
 
 - Specialize more in CSS Flexbox grid among other concepts
-- Improve my study in JavasCript
+- Improve my study in javascript
 
 
 
